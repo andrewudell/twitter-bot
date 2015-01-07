@@ -1,3 +1,6 @@
+#!/usr/bin/python
+# -*- coding: latin-1 -*-
+import os, sys
 '''
 Local Settings for a heroku_ebooks account. #fill in the name of the account you're tweeting from here.
 '''
