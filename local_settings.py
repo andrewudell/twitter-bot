@@ -5,10 +5,10 @@ Local Settings for a heroku_ebooks account. #fill in the name of the account you
 '''
 
 #configuration
-MY_CONSUMER_KEY = 'GXy0P4gDiGVS6FuXqOU616tC2'
-MY_CONSUMER_SECRET = 'si8vKpXkSlEIqHNQrEH726Q34pq7PcLlfJd2uJtuZsUaZcjzEd'
-MY_ACCESS_TOKEN_KEY = '2951265794-pjUBxMJvMS7j5E7Ch7H6ruF7EDfPrieiAHgVxnW'
-MY_ACCESS_TOKEN_SECRET = 'k5zrCTuJ5pMQxe6B55NbB2SM26jJnuEsilAurAHtq8ubR'
+MY_CONSUMER_KEY = 'CONSUMER_KEY'
+MY_CONSUMER_SECRET = 'CONSUMER_SECRET'
+MY_ACCESS_TOKEN_KEY = 'ACCESS_TOKEY_KEY'
+MY_ACCESS_TOKEN_SECRET = 'ACCESS_TOKEN_SECRET'
 
 SOURCE_ACCOUNTS = ["twnsndco"]
 ODDS = 8 #How often do you want this to run? 1/8 times?
