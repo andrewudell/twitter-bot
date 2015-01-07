@@ -1,6 +1,3 @@
-# This Python file uses the following encoding: utf-8
-import os, sys
-
 '''
 Local Settings for a heroku_ebooks account. #fill in the name of the account you're tweeting from here.
 '''
