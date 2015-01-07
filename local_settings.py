@@ -1,3 +1,5 @@
+# -*- coding: utf-8 -*-
+
 '''
 Local Settings for a heroku_ebooks account. #fill in the name of the account you're tweeting from here.
 '''
